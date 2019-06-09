@@ -18,6 +18,6 @@ addLetters(count)
 
 
 if og == new:
-    print(words + " is a palidrome!")
+    print(words + " is a palindrome!")
 else:
-    print(words + " is not a palidrome.")
+    print(words + " is not a palindrome.")
